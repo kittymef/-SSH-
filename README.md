@@ -12,5 +12,7 @@ ssh-keygen -t ed25519
 cat ~/.ssh/id_ed25519.pub
 
 ## 2. Добавление публичного ключа в аккаунт GitHub
-settings -> deploy key -> Title, key, allow write access -> add key
+profile -> settings -> SSH and GPG keys -> New SSH key -> Title, key -> add SSH key
+<img width="907" height="477" alt="ZUPZEoo-Ng455bdBn1oirU6kS9_bRqAJ43tCfh-6Em6NqRohcBYg1QuDXtQCWDYgSpY1gzjdK625HObruFMEu5Oe" src="https://github.com/user-attachments/assets/3bdde0f7-c724-4dde-b73b-e0dad00e4959" />
+
 
