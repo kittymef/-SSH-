@@ -16,3 +16,4 @@ profile -> settings -> SSH and GPG keys -> New SSH key -> Title, key -> add SSH 
 <img width="907" height="477" alt="ZUPZEoo-Ng455bdBn1oirU6kS9_bRqAJ43tCfh-6Em6NqRohcBYg1QuDXtQCWDYgSpY1gzjdK625HObruFMEu5Oe" src="https://github.com/user-attachments/assets/3bdde0f7-c724-4dde-b73b-e0dad00e4959" />
 
 ## 3. Проверка SSH-подключения к GitHub
+<img width="730" height="157" alt="Screenshot From 2026-11-06 14-52-27" src="https://github.com/user-attachments/assets/79ed5d45-770e-4340-b8e1-fba138d4f881" />
