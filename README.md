@@ -5,6 +5,7 @@
 ## 1. Установка SSH-клиента и генерация ключевой пары
 ### Проверка наличия и работы SSH-клиента в системе:
 sudo systemctl status ssh
+<img width="730" height="157" alt="Screenshot From 2026-11-06 14-52-27" src="https://github.com/user-attachments/assets/79ed5d45-770e-4340-b8e1-fba138d4f881" />
 ### Генерация новой пары ключей:
 ssh-keygen -t ed25519
 ### Создание пароля для приватного ключа.
@@ -16,7 +17,7 @@ cat ~/.ssh/id_ed25519.pub
 <img width="907" height="477" alt="ZUPZEoo-Ng455bdBn1oirU6kS9_bRqAJ43tCfh-6Em6NqRohcBYg1QuDXtQCWDYgSpY1gzjdK625HObruFMEu5Oe" src="https://github.com/user-attachments/assets/3bdde0f7-c724-4dde-b73b-e0dad00e4959" />
 
 ## 3. Проверка SSH-подключения к GitHub
-<img width="730" height="157" alt="Screenshot From 2026-11-06 14-52-27" src="https://github.com/user-attachments/assets/79ed5d45-770e-4340-b8e1-fba138d4f881" />
+<img width="741" height="47" alt="Screenshot From 2026-11-06 15-40-16" src="https://github.com/user-attachments/assets/fcf1811a-0c8b-4fa5-8232-a5f7b0aa4c4f" />
 
 
 ## 4. Работа с репозиторием по SSH
